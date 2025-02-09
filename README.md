@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/716q56128y2bmk6c?svg=true)](https://ci.appveyor.com/project/Juliyap2887/card-selenide)
